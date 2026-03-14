@@ -1,5 +1,5 @@
 streamlit
 akshare
 pandas
-openai
-Pillow
+numpy
+scipy
