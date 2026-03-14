@@ -29,7 +29,7 @@ def analyze_with_kimi(image_base64):
     )
     
     response = client.chat.completions.create(
-        model="moonshot-v1-8k", # 如果你的账户有视觉权限，请确认模型名
+        model="‌Kimi K2.5‌", # 如果你的账户有视觉权限，请确认模型名
         messages=[
             {
                 "role": "user",
