@@ -1,5 +1,5 @@
 streamlit
 akshare
 pandas
-google-generativeai
+openai
 Pillow
